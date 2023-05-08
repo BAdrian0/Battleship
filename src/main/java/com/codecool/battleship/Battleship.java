@@ -8,7 +8,7 @@ public class Battleship {
             game.display.displayWelcomeMessage();
             game.display.displayGameModeOptions();
             int gameMode = game.input.getGameMode();
-            if (gameMode == 3) {
+            if (gameMode == 2) {
                 System.exit(0);
             } else if (gameMode == 1) {
                 game.play();

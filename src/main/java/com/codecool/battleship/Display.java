@@ -10,7 +10,7 @@ public class Display{
     }
 
     public void displayGameModeOptions (){
-        System.out.println("1. New game\n2. High scores\n3. Exit");
+        System.out.println("1. New game\n2. Exit");
         System.out.println();
     }
 

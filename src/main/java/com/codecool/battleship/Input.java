@@ -12,7 +12,7 @@ public class Input {
     Display display = new Display();
 
     public int getGameMode() {
-        int[] validAnswers = {1, 2, 3};
+        int[] validAnswers = {1, 2};
         int gameMode;
         while (true) {
             scanner = new Scanner(System.in);
