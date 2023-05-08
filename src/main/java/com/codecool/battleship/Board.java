@@ -12,7 +12,6 @@ public class Board {
 
     int oceanSize;
 
-    //    public void setOcean(Square[][] ocean) {
     public void setOcean(int oceanSize) {
         this.ocean = new Square[oceanSize][oceanSize];
         for (int row = 0; row < oceanSize; row++) {
@@ -68,7 +67,7 @@ public class Board {
                     for (int i = 0; i < shipType.getLength(); i++) {
                         if (this.ocean[shipPlacement.shipPosition.y][shipPlacement.shipPosition.x + i].squareStatus
                                 != SquareStatus.EMPTY) {
-                            responseOverlapping = true;//true = ships are overlapping
+                            responseOverlapping = true;
                             break;
                         }
                     }

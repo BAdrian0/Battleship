@@ -6,7 +6,7 @@ import com.codecool.battleship.placement.ShipPlacement;
 
 public class BoardFactory extends Board {
 
-    //The BoardFactory class has a @randomPlacement() method that handles random ship placement on board
+
     public void randomPlacement(Ship ship, int oceanSize) {
         ShipPlacement shipPlacement;
         do {
