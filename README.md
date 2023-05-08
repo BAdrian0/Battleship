@@ -15,3 +15,7 @@ After a long and grueling battle, victory is finally within reach. With one fina
 
 ### Credits
 This project was developed as part of the Codecool programming course.
+
+<img width="307" alt="Screenshot 2023-05-08 at 23 32 12" src="https://user-images.githubusercontent.com/106266282/236929682-3fcc9bcc-7784-4230-b3f5-4d904bd79314.png">
+
+<img width="331" alt="Screenshot 2023-05-08 at 23 37 04" src="https://user-images.githubusercontent.com/106266282/236929699-69e3b10a-f1cf-4c6f-83df-2bb4b470e7f7.png">
