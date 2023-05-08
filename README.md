@@ -10,7 +10,7 @@ After a long and grueling battle, victory is finally within reach. With one fina
 
 ### Features
 - Random or manual placement of ships
-- Customizable grid size and ships size
+- Customizable grid size (10 or more squares)
 - Two-player mode for local multiplayer
 
 ### Credits
